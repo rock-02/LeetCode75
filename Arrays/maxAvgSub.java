@@ -1,3 +1,4 @@
+package Arrays;
 public class maxAvgSub {
     public double findMaxAverage(int[] nums, int k) {
 

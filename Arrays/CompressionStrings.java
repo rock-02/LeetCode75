@@ -1,3 +1,4 @@
+package Arrays;
 public class CompressionStrings {
     public static int compress(char[] chars) {
 

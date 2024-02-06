@@ -1,3 +1,4 @@
+package Arrays;
 
 public class IncreasingTriplet {
     public boolean increasingTriplet(int[] nums) {

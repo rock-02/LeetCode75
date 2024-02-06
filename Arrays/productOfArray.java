@@ -1,3 +1,4 @@
+package Arrays;
 public class productOfArray {
 
     public static void print(int spro[]) {

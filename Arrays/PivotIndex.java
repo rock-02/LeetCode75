@@ -1,3 +1,4 @@
+package Arrays;
 public class PivotIndex {
     public int pivotIndex(int[] nums) {
         int sum = 0;

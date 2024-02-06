@@ -1,3 +1,4 @@
+package Arrays;
 public class GcdOfStrings {
 
     int gcd(int a, int b) {

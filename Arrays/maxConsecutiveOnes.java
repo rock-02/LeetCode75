@@ -1,3 +1,4 @@
+package Arrays;
 public class maxConsecutiveOnes {
 
     public int longestOnes(int[] nums, int k) {

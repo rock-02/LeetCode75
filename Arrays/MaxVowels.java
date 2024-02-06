@@ -1,3 +1,4 @@
+package Arrays;
 public class MaxVowels {
     public static boolean isVowel(char ch) {
         ch = Character.toLowerCase(ch); // Convert to lowercase for case-insensitivity

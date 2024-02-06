@@ -1,3 +1,4 @@
+package Arrays;
 public class FlowerBed {
     public static boolean canPlaceFlowers(int[] flowerbed, int n) {
         int c = 0;
